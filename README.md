@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hardikjain
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web developers
+- 🌱 I’m currently making android apps.
+- 💞️ I’m looking to collaborate with android developers
 
 <!---
 Hardikjain1207/Hardikjain1207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
